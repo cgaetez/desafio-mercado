@@ -1,9 +1,14 @@
 <h1>Lista de productos</h1>
-
-
-    {{> cards
-    title= 'Peras'
-    description= 'hala'
-    author= 'yo'
-    date= 'hoy'
+<div class="container">
+    <div class="row">
+{{productos.nombre}}
+{{#each productos}}
+     {{> cards
+        productos = productos
     }}
+{{/each}}
+    </div>
+
+</div>
+
+   

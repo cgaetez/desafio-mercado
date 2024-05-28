@@ -1,0 +1,35 @@
+{
+    "productos" : [
+        {
+            "nombre" : "banana",
+            "descripcion": "Lorem banana ipsum",
+            "precio": "200"
+        },
+        {
+            "nombre": "cebollas",
+            "descripcion": "Lorem cebollas ipsum",
+            "precio": "100"
+        },
+        {
+            "nombre": "lechuga",
+            "descripcion": "Lorem lechugas ipsum",
+            "precio": "300"
+        },
+        {
+            "nombre": "papas",
+            "descripcion": "Lorem papas ipsum",
+            "precio": "400"
+        },
+        {
+            "nombre":"pimenton",
+            "descripcion": "Lorem pimientos ipsum",
+            "precio": "500"
+        },
+        {
+            "nombre": "tomate",
+            "descripcion": "Lorem tomate ipsum",
+            "precio": "230"
+        }
+    ]
+}
+
